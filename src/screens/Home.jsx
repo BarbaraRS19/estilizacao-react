@@ -4,7 +4,7 @@ import Footer from '../components/Footer'
 import Header from '../components/Header'
 import About from '../components/About'
 import Galery from '../components/Galery'
-//import '../styles/styles.css'
+import '../styles/styles.css'
 
 
 function Home(){
